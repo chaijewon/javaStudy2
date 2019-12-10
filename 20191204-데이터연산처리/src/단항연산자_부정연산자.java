@@ -1,9 +1,9 @@
 /*
- *    ´ÜÇ× : ÇÇ¿¬»êÀÚ(¿¬»ê´ë»ó) 1°³ÀÏ °æ¿ì 
- *    ºÎÁ¤¿¬»êÀÚ : !
+ *    ë‹¨í•­ : í”¼ì—°ì‚°ì(ì—°ì‚°ëŒ€ìƒ) 1ê°œì¼ ê²½ìš° 
+ *    ë¶€ì •ì—°ì‚°ì : !
  *    ========
- *     = booleanÀ» »ç¿ëÇÑ´Ù 
- *     = true=>false , false => true  => ¿À¶óÅ¬
+ *     = booleanì„ ì‚¬ìš©í•œë‹¤ 
+ *     = true=>false , false => true  => ì˜¤ë¼í´
  *     
  *     for(int i=1;i<=10;i++)
  *     for(int i=10;i>=0;i--)
@@ -19,17 +19,19 @@
  *     
  *     789 => 7 8 9
  *     
- *     Çü»ó°ü¸® => ±êÇãºê ...
+ *     í˜•ìƒê´€ë¦¬ => ê¹ƒí—ˆë¸Œ ...
+ 
+ fsfsfsfsfsfsfsfsfsfsfsfsfsf
  *     
  */
-public class ´ÜÇ×¿¬»êÀÚ_ºÎÁ¤¿¬»êÀÚ {
+public class ë‹¨í•­ì—°ì‚°ì_ë¶€ì •ì—°ì‚°ì {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         boolean bCheck=false;
-        System.out.println("bCheck º¯°æÀü:"+bCheck);
+        System.out.println("bCheck ë³€ê²½ì „:"+bCheck);
         bCheck=!bCheck;
-        System.out.println("bCheck º¯°æÈÄ:"+bCheck);
+        System.out.println("bCheck ë³€ê²½í›„:"+bCheck);
         
 	}
 
